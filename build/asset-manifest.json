@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a916e69.css",
+    "main.js": "/static/js/main.b080738c.js",
+    "static/js/206.8ad2df04.chunk.js": "/static/js/206.8ad2df04.chunk.js",
+    "static/media/UAX2.gif": "/static/media/UAX2.a0ead8d2a2ebbfbc09e6.gif",
+    "static/media/uaxdlts.svg": "/static/media/uaxdlts.54db363e73bc62fa10bfa51a1cca4350.svg",
+    "static/media/UAXOS_BG.png": "/static/media/UAXOS_BG.9b888a440947c3e57d8d.png",
+    "static/media/BLOCK.png": "/static/media/BLOCK.cdfea8c2a27b419e960b.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2a916e69.css",
+    "static/js/main.b080738c.js"
+  ]
+}
