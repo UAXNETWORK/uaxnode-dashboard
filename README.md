@@ -38,8 +38,11 @@ Whether you're a validator, node operator, or developer, this dashboard helps yo
 Clone the repo and install dependencies:
 
 git clone https://github.com/UAXNETWORK/uaxnode-dashboard.git
+
 cd uaxnode-dashboard
+
 npm install
+
 serve -s build
 
 ---
